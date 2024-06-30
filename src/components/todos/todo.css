@@ -1,0 +1,33 @@
+.todo {
+  display: flex;
+  padding: 22px;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.8rem;
+  background-color: #15101c;
+  max-width: 432px;
+  width: 100%;
+  border-radius: 10px;
+}
+ol {
+  list-style-type: none;
+}
+.todo p {
+  color: #9e78cf;
+  text-align: left;
+}
+.todo button {
+  max-width: 30px;
+  width: 100%;
+  padding: 6px;
+  border: none;
+  background-color: inherit;
+}
+.par1 {
+  padding-bottom: 17px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19.36px;
+  text-align: left;
+  color: #fff;
+}
